@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sakuraroot
-- 👀 I’m interested in costum kernels and costum roms
-- 🌱 I’m currently learning C++ and Linux
-- 💞️ I’m looking to collaborate on Eureka Development Team
-- 📫 How to reach me Telegram: sakuraroot
+- 👋 Hi, I’m @iPanda
+- 👀 I’m interested in pawn scripting
+- 🌱 I’m currently learning pawn
+- 💞️ I’m looking to collaborate on SA:MP
+- 📫 How to reach me Discord: 🐧 lowkey.iPanda#4097
 
